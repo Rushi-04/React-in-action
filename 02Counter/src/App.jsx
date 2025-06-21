@@ -12,6 +12,11 @@ function App() {
       console.error("Counter exceeds 20 can't increase value")
     }else{
       setCounter(counter + 1);
+      // setCounter((counter) => counter + 1);    //Interview Question
+      // setCounter((counter) => counter + 1);
+      // setCounter((counter) => counter + 1);
+      // setCounter((counter) => counter + 1);
+      // setCounter((counter) => counter + 1);
     }
   }
   
