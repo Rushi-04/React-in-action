@@ -10,9 +10,9 @@ export default function Home() {
                         <h2 className="text-4xl font-bold sm:text-5xl">
                             Build with Us
                             <span className="hidden sm:block text-4xl">Now !</span>
-                            
-                        </h2>
 
+                        </h2>
+    
                         <Link
                             className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
                             to="/"
