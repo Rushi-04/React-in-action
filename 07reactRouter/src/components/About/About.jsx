@@ -9,7 +9,7 @@ export default function About() {
                         <img
                             src="https://assets.designtemplate.io/Social-Media-Influencer-Girl-Vector-Illustration-700.webp"
                             alt="image"
-                        />
+                        /> 
                     </div>
                     <div className="md:7/12 lg:w-6/12">
                         <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
