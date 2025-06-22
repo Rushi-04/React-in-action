@@ -38,8 +38,7 @@ export default function Footer() {
                                         href="https://github.com/hiteshchoudhary"
                                         className="hover:underline"
                                         target="_blank"
-                                        rel="noreferrer"
-                                    >
+                                        rel="noreferrer">
                                         Github
                                     </a>
                                 </li>
