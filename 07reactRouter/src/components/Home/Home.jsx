@@ -10,6 +10,7 @@ export default function Home() {
                         <h2 className="text-4xl font-bold sm:text-5xl">
                             Build with Us
                             <span className="hidden sm:block text-4xl">Now !</span>
+                            
                         </h2>
 
                         <Link
