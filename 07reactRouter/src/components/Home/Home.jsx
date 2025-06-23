@@ -41,7 +41,7 @@ export default function Home() {
                 <img className="sm:w-96 w-48" src="https://static.vecteezy.com/system/resources/previews/006/470/789/large_2x/isometric-style-website-development-illustration-free-vector.jpg" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 ">Dynamic Team of SuperDevs</h1>
+            <h1 className="text-center text-2xl sm:text-5xl py-10 ">Join Dynamic Team of SuperDevs</h1>
         </div>
     );
 }
