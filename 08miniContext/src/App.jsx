@@ -10,8 +10,11 @@ function App() {
 
   return (
     <UserContextProvider>
+      
       <Login/>
+
       <Profile/>
+
     </UserContextProvider>
   )
 }
